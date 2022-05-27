@@ -1,0 +1,3 @@
+﻿Reformar el desafio de la clase anterior, en el que habíamos utilizado passport con strategia local, para que ahora me permita autenticarme a través de la red social Facebook.
+
+Sólo se pretende implementar la parte de login, no de registro de usuario.
